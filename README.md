@@ -1,4 +1,4 @@
-Automated Traffic Lights
+**Automated Traffic Lights**
 This project implements an automated traffic light system designed to optimize vehicle flow at a roundabout. By dynamically adjusting signal durations based on traffic volume in each lane, it prioritizes heavily congested areas to reduce waiting times and enhance overall efficiency. The model serves as a simplified approach for simulating traffic management scenarios.
 
 Features
